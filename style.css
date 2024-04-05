@@ -1,0 +1,35 @@
+body{
+    background-color: #e9d6cf;
+}
+.box{
+    border: 3px solid black;
+    background-color: #dc6c5e;
+    text-align: center;
+    margin-top: 80px;
+    width: 650px;
+}
+div{
+    margin: auto;
+}
+h3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.c{
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 25px;
+    font-weight: bolder;
+}
+.a{
+    color: rgb(206, 206, 25);
+}
+.b{
+    border-radius: 50%;
+    width: 150px;
+    border: 3px solid black;
+    margin-top: -70px;
+}
+.d{
+    color: #c57c90;
+    text-align: center;
+}
